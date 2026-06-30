@@ -13,7 +13,7 @@ Built as a Java Full-Stack Engineering project for Zidio Development.
 | Swagger / OpenAPI UI | https://keystone-backend-752r.onrender.com/swagger-ui.html |
 | Database | Render PostgreSQL (managed) |
 
-> **Cold start note:** services are on Render's free tier and spin down when idle. Before using the app, open the Backend API and Frontend links above first and wait ~1 min for them to wake up, then use the Frontend as the full-stack app.
+> **Cold start note:** services are on Render's free tier and spin down when idle. Before using the app, open the Backend API and Frontend links above first and wait ~3 min for them to wake up, then use the Frontend as the full-stack app.
 
 ### Seed logins
 
